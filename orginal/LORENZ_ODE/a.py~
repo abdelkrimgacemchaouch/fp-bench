@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf8 -*-
+import os,subprocess
+os.system('./lorenz_ode.sh')
+os.system('./a.out')
+os.system('gnuplot < lorenz_ode_commands.txt)
+

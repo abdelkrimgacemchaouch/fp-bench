@@ -1,0 +1,9 @@
+STRING_SIMULATION is a C++ program which simulates the behavior of a vibrating string by solving the corresponding initial boundary value problem (IBVP), creating files that can be displayed by gnuplot. 
+ Reference:
+   George Lindfield, John Penny,
+    Numerical Methods Using MATLAB,
+    Second Edition,
+    Prentice Hall, 1999,
+    ISBN: 0-13-012641-1,
+    LC: QA297.P45.
+
